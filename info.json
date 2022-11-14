@@ -1,59 +1,21 @@
-{
-  "name": "AxonDAO",
-  "tokenSymbol": "",
-  "DaoOS": "Snapshot",
-  "address": "",
-  "description": "AxonDAO is a medical investment DAO funding underrepresented neuroscience therapeutics, research, and technologies.",
-  "whitePaperLink": "https://docs.google.com/presentation/d/1z-GCO9gAVux6zIashMhKS5Fw_W6rlq7YfsZNkxo1pRQ/edit?usp=sharing",
-  "deleted": false,
-  "primaryColor": "#3fb8af",
-  "twitterHandle": "AxonDAO",
-  "coingeckoId": "",
-  "snapshotId": "",
-  "logo": "https://storage.googleapis.com/barracuda-app-prod/projects/PBtXG1VYDqnWX_-fR_Rqe/images/profile_9abc0adfa2aaf1f6e1c5b1385e014e6e",
-  "discordLink": "https://discord.gg/Sbfb3Hh3YX",
-  "website": "https://www.axondao.io/",
-  "tokenDescription": "",
-  "tokenTradeLink": "",
-  "tags": [
-    "Focused Research",
-    "NFTs"
-  ],
-  "gallery": [
-    {
-      "name": "Intro",
-      "description": "Intro",
-      "mediaUrl": "https://i.imgur.com/WGgd7jz.png",
-      "source": "image",
-      "link": "https://twitter.com/brenna_axon"
-    },
-    {
-      "name": "Intro",
-      "description": "Intro",
-      "mediaUrl": "https://i.imgur.com/vAiWqhg.png",
-      "source": "image",
-      "link": "https://www.linkedin.com/in/ccrecelius/"
-    },
-    {
-      "name": "Intro",
-      "description": "Intro",
-      "mediaUrl": "https://i.imgur.com/t9knIGC.jpeg",
-      "source": "image",
-      "link": "https://www.linkedin.com/in/ian-alexander/"
-    },
-    {
-      "name": "Intro",
-      "description": "Intro",
-      "mediaUrl": "https://i.imgur.com/yzWirAc.png",
-      "source": "image",
-      "link": "https://www.linkedin.com/in/chadslate/"
-    },
-    {
-      "name": "Intro",
-      "description": "Intro",
-      "mediaUrl": "https://i.imgur.com/zm7M5pn.png",
-      "source": "image",
-      "link": "https://www.linkedin.com/in/ekincangenc/?originalSubdomain=uk"
-    }
-  ]
+{"name":"Abakhus",
+"tokenSymbol":null,
+"DaoOS":null,
+"address":null,
+"description":"Abakhus is a set of decentralized and interconnected privacy-preserving Health and Life Sciences data and services that leverage the full capabilities of Private Smart Contracts on Secret Network and IBC from the Cosmos Ecosystem. By making extensive use of private metadata, Abakhus is the world's first protocol to bring together in one place (a) clinical/veterinary laboratory specialists, (b) multi-omics, bioinformatics and systems biology specialists, (c) software developers in the health and life sciences space, (d) physicians and veterinarians and (e) end-users in need of clinical/veterinary/multiomics/systems biology services.",
+"whitePaperLink":"https://github.com/Abakhus/dApp/raw/main/Abakhus_Whitepaper_v1.pdf",
+"deleted":false,
+"primaryColor":"#a51698",
+"twitterHandle":"abakhus",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/sMdMrhO.png",
+"telegramLink":"",
+"discordLink":"abakhus",
+"website":"https://abakhus.io/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["Ecosystems", "Data Storage", "Blockchain protocols"]
+  
 }
