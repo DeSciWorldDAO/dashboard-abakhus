@@ -1,6 +1,6 @@
 {"name":"Abakhus",
 "tokenSymbol":null,
-"DaoOS":null,
+"DaoOS":"Snapshot",
 "address":null,
 "description":"Abakhus is a set of decentralized and interconnected privacy-preserving Health and Life Sciences data and services that leverage the full capabilities of Private Smart Contracts on Secret Network and IBC from the Cosmos Ecosystem. By making extensive use of private metadata, Abakhus is the world's first protocol to bring together in one place (a) clinical/veterinary laboratory specialists, (b) multi-omics, bioinformatics and systems biology specialists, (c) software developers in the health and life sciences space, (d) physicians and veterinarians and (e) end-users in need of clinical/veterinary/multiomics/systems biology services.",
 "whitePaperLink":"https://github.com/Abakhus/dApp/raw/main/Abakhus_Whitepaper_v1.pdf",
